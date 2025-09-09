@@ -1,0 +1,47 @@
+
+DATA ANALYSIS CASE STUDIES
+
+--------------------------------------------------
+1. E-Commerce Sales Analysis
+Problem: A retail company wants to know why profits are declining despite sales growth.
+Tasks:
+- Identify top-selling products and check their profit margins.
+- Segment customers by purchase frequency and revenue (RFM Analysis).
+- Find regions where sales are high but returns are frequent.
+Deliverable: Sales growth is driven by low-margin products → upsell high-margin items.
+
+--------------------------------------------------
+2. Bank Loan Default Prediction
+Problem: A bank wants to minimize losses by predicting loan defaulters.
+Tasks:
+- Analyze borrower demographics and loan history.
+- Check drivers: income, credit score, loan amount, employment type.
+- Build a simple ML model for default prediction.
+Deliverable: Loan default is strongly linked to low credit score and high loan-to-income ratio.
+
+--------------------------------------------------
+3. Netflix Content Strategy
+Problem: Netflix wants to expand in Asia and needs to know which content works best.
+Tasks:
+- Analyze content by country, genre, and release year.
+- Compare % of movies vs. TV shows region-wise.
+- Find trends in releases by year.
+Deliverable: Asian markets prefer drama series → focus on regional drama productions.
+
+--------------------------------------------------
+4. Hospital Patient Analysis
+Problem: A hospital wants to reduce patient wait time and optimize staff allocation.
+Tasks:
+- Analyze patient inflow by day and time.
+- Find average wait time by department.
+- Identify peak hours and staff shortages.
+Deliverable: Peak inflow is Monday mornings → deploy extra staff in OPD at that time.
+
+--------------------------------------------------
+5. Food Delivery App (Zomato/Swiggy)
+Problem: A delivery company wants to reduce delays and improve retention.
+Tasks:
+- Analyze average delivery time by city, traffic, and restaurant type.
+- Check customer churn vs. satisfaction ratings.
+- Build cohort analysis for retention after 1 week and 1 month.
+Deliverable: Delays mainly from partner restaurants in high-traffic areas → optimize delivery partner allocation.
